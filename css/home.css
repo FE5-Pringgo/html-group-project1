@@ -216,3 +216,239 @@
     padding-left: 229px ;
     padding-right: 229px;
 }
+
+
+/* Team */
+
+.team{
+    display: flex;
+    justify-content: center;
+    background-color:#fff;
+    padding: 20px;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.team-1{
+    margin-left: 20px;
+    margin-top: 21px;
+    margin-bottom: 21px;
+    margin-right: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #19345E;
+}
+
+.consist{
+    display: flex;
+    justify-content: center;
+    margin-top: -30px;
+    font-family: Muli,bold;
+    font-size: 17px;
+    color: #19345E;
+}
+
+.ornament {
+    position:absolute;
+    height: 40%;
+}
+
+.col-md-4{
+    z-index: 5;
+}
+
+.pekerja{
+    width: 225px;
+    height: 265px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.kotak{
+    width: 225px;
+    height: 265px;
+}
+
+.frame-image{
+    width: 225px;
+    height: 265px;
+    border: 10px solid #F47522;
+    position: relative;
+    top: -30vh;
+    right: -10vh;
+}
+
+.frame-image1{
+    width: 225px;
+    height: 265px;
+    border: 10px solid #19345E;
+    position: relative;
+    top: -30vh;
+    right: -10vh;
+}
+.pekerja-1{
+    width: 225px;
+    height: 265px;
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+    margin-top: -25vh;
+    font-family: Roboto,bold;
+    font-size: 20px;
+    color: #F47522;
+}
+
+.job{
+    display: flex;
+    justify-content: center;
+    margin-left: 30px;
+    margin-top: -20px;
+    font-family: Poppins;
+    font-size: 15px;
+    color: #19345E;
+}
+
+.check{
+    font-family: Muli,semibold;
+    font-size: 16px;
+    text-align: right;
+    margin-right: 160px;
+    color: #19345E;
+}
+
+.arrow{
+    width: 20px;
+    height: 20px;
+}
+
+/* Blog */
+.blog{
+    display: flex;
+    justify-content: center;
+    background-color:#fff;
+    padding: 10px;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.blog-1{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 21px;
+    margin-right: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #19345E;
+}
+
+.isi {
+    width: 285px ;
+}
+
+.kartu{
+    width: 285px;
+    height: 207px;
+}
+
+#gambar {
+    width: 285px;
+    height: 207px;
+    padding-left: 10px;
+    margin-left: 50px;
+}
+
+.isi {
+    margin-left: 60px;
+}
+
+.card-title{
+    font-family: Roboto, bold;
+    font-size: 19px;
+    color: #19345E;
+    margin-top: 10px;
+}
+
+.span{
+    text-align: right;
+    margin-left: 80px;
+}
+
+.card-text{
+    font-family: poppins;
+    font-size: 14px;
+    color: #19345E;
+}
+
+.read{
+    margin-left: 180px;
+
+}
+
+/* Footer */
+
+#footer{
+    height: 142px;
+    margin-top: 300px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    position: absolute;
+}
+
+.logo-foot{
+    height: 56px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.social{
+    color: #fff;
+    font-family: muli;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.fb{
+    width: 20px;
+    height: 20px;
+    margin-left: 120px;
+    margin-right: 10px;
+}
+.twit{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.ig{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.linked{
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.copy{
+    color: #fff;
+    font-family: muli;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+}
+
+
+
+
+
