@@ -1,0 +1,189 @@
+/* navbar */
+.logo-navbar {
+  width: 10vw;
+}
+
+a {
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #19345e;
+  font-weight: bold;
+}
+
+.navigasi-button {
+  background-color: #f47522;
+  color: #ffffff;
+  width: 100%;
+  border-radius: 50%;
+  margin-top: 7px;
+}
+
+.navigasi-button a {
+  color: #ffffff;
+}
+/* akhir navbar */
+
+.background-Ornamen {
+  background-image: url(../assets/ornament_batik.png);
+  background-repeat: no-repeat;
+}
+
+h3,
+h5,
+h6 {
+  color: #19345e;
+  font-weight: 700;
+}
+
+li {
+  color: #19345e;
+}
+
+/* footer */
+
+.data {
+  list-style: none;
+  font-size: 15px;
+}
+
+.logo-foot {
+  height: 56px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.social {
+  color: #fff;
+  font-family: muli;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.fb {
+  width: 20px;
+  height: 20px;
+  margin-left: 120px;
+  margin-right: 10px;
+}
+.twit {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.ig {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.linked {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.copy {
+  color: #fff;
+  font-family: muli;
+  font-size: 14px;
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+}
+
+/* akhir footer */
+
+.margin-out {
+  margin-top: 22px;
+}
+
+.frame-image {
+  width: 162px;
+  height: 201px;
+  border: 6px solid #f47522;
+  position: relative;
+  top: 42vh;
+  right: 0vh;
+  left: 5vw;
+  margin-top: -20vh;
+}
+
+/* responsive  backend dan ui ux*/
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .frame-image {
+    width: 162px;
+    height: 200px;
+    border: 6px solid #f47522;
+    position: relative;
+    top: 43vh;
+    right: 0vh;
+    left: 1vw;
+    margin-top: -30vh;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .frame-image {
+    width: 162px;
+    height: 205px;
+    border: 6px solid #f47522;
+    position: relative;
+    top: 42vh;
+    right: 0vh;
+    left: 2vw;
+    margin-top: -30vh;
+  }
+
+  .data {
+    font-size: 14px;
+    font-weight: bold;
+  }
+}
+
+/* responsive frame front-end */
+
+.frame-image2 {
+  width: 162px;
+  height: 201px;
+  border: 6px solid #19345e;
+  position: relative;
+  top: 42vh;
+  right: 0vh;
+  left: 5vw;
+  margin-top: -20vh;
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .frame-image2 {
+    width: 162px;
+    height: 200px;
+    border: 6px solid #19345e;
+    position: relative;
+    top: 43vh;
+    right: 0vh;
+    left: 1vw;
+    margin-top: -30vh;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .frame-image2 {
+    width: 162px;
+    height: 205px;
+    border: 6px solid #19345e;
+    position: relative;
+    top: 42vh;
+    right: 0vh;
+    left: 2vw;
+    margin-top: -30vh;
+  }
+
+  .data {
+    font-size: 14px;
+    font-weight: bold;
+  }
+}

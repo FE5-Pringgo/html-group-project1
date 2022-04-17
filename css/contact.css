@@ -1,0 +1,119 @@
+/* navbar */
+
+.logo-navbar {
+  width: 10vw;
+}
+
+a {
+  color: #19345e;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+button {
+  font-family: Mulish;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: #f47522;
+  color: #ffffff;
+  width: 30%;
+
+  letter-spacing: 1px;
+}
+
+.navigasi-button {
+  background-color: #f47522;
+  color: #ffffff;
+  width: 100%;
+  border-radius: 50%;
+  margin-top: 7px;
+}
+
+.navigasi-button a {
+  color: #ffffff;
+}
+
+/* end navbar style */
+p,
+h2,
+h3 {
+  color: #19345e;
+  font-weight: bold;
+}
+p {
+  font-family: poppins;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-family: mulish;
+  font-size: 45px;
+}
+span {
+  color: red;
+}
+
+.warna-border-input {
+  border-color: #f47522;
+}
+
+label {
+  color: #19345e;
+}
+
+.contact-logo {
+  width: 20px;
+}
+
+/* footer */
+
+.logo-foot {
+  height: 56px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+.social {
+  color: #fff;
+  font-family: muli;
+  text-align: center;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.fb {
+  width: 20px;
+  height: 20px;
+  margin-left: 120px;
+  margin-right: 10px;
+}
+.twit {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.ig {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.linked {
+  width: 20px;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.copy {
+  color: #fff;
+  font-family: muli;
+  font-size: 14px;
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+}
