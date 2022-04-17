@@ -117,3 +117,93 @@ p{
     padding-right: 20px;
     padding-bottom: 30px;
 }
+
+
+@media screen and (max-width :768px) and (min-width :321px) {
+    .social {
+        color: #fff;
+        font-family: muli;
+        text-align: center;
+        font-size: 12px;
+        margin-top: 20px;
+    }
+
+    .logo-foot {
+        height: 35px;
+        margin-bottom: 10px;
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+
+    .icon {
+        margin-top: -15px;
+        margin-left: 70px;
+    }
+
+    .copy {
+        color: #fff;
+        font-family: muli;
+        font-size: 12px;
+        text-align: center;
+        margin-top: 12px;
+        padding-top: 20px;
+    }
+    
+}
+
+@media screen and (max-width : 320px) {
+
+    .logo-foot {
+        height: 27px;
+        margin-bottom: 10px;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+
+    .social {
+        color: #fff;
+        font-family: muli;
+        text-align: center;
+        font-size: 10px;
+        margin-top: 20px;
+    }
+
+    .fb {
+        width: 10px;
+        height: 10px;
+        margin-left: 10px;
+        margin-right: 5px;
+    }
+
+    .twit {
+        width: 10px;
+        height: 10px;
+        margin-right: 5px;
+    }
+
+    .ig {
+        width: 10px;
+        height: 10px;
+        margin-right: 5px;
+    }
+
+    .linked {
+        width: 10px;
+        height: 10px;
+        margin-left: 5px;
+    }
+
+    .icon {
+        margin-top: -15px;
+    }
+
+    .copy {
+        color: #fff;
+        font-family: muli;
+        font-size: 8px;
+        text-align: center;
+        margin-top: 12px;
+        padding-top: 20px;
+    }
+    
+}
