@@ -1,0 +1,219 @@
+/* Navbar */
+.logo{
+    height: 10vh;
+    margin-left: 50px;
+}
+
+#menu{
+    margin-right: 50px;
+}
+
+#btn-contact{
+    box-sizing: border-box;
+    border-radius: 10vh;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #F47522;
+    margin-top: 5px;
+}
+
+.nav-link{
+    font-family: sans-serif;
+}    
+
+/* Body */
+.blog{
+    display: flex;
+    justify-content: center;
+    background-color:#fff;
+    padding: 20px;
+    align-items: center;
+}
+
+.blog-1{
+    margin-left: 20px;
+    margin-top: 21px;
+    margin-bottom: 21px;
+    margin-right: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #19345E;
+}
+
+.garis{
+    align-items: center;
+    width: 35px;
+    height: 2px;
+    border-radius: 25%;
+    background-color: #F47522;
+}
+
+.judul{
+    color: #19345E;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.penulis{
+    color: #19345E;
+    margin-bottom: 51px;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+p{
+    color: #19345E;
+    font-family: poppins;
+    font-size: 15px;
+}
+
+/* Footer */
+
+.logo-foot{
+    height: 56px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.social{
+    color: #fff;
+    font-family: muli;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.fb{
+    width: 20px;
+    height: 20px;
+    margin-left: 120px;
+    margin-right: 10px;
+}
+.twit{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.ig{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.linked{
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.copy{
+    color: #fff;
+    font-family: muli;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+}
+
+.paragraf {
+    margin-bottom: 100px;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+
+@media screen and (max-width :768px) and (min-width :321px) {
+    .social {
+        color: #fff;
+        font-family: muli;
+        text-align: center;
+        font-size: 12px;
+        margin-top: 20px;
+    }
+
+    .logo-foot {
+        height: 35px;
+        margin-bottom: 10px;
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+
+    .icon {
+        margin-top: -15px;
+        margin-left: 70px;
+    }
+
+    .copy {
+        color: #fff;
+        font-family: muli;
+        font-size: 12px;
+        text-align: center;
+        margin-top: 12px;
+        padding-top: 20px;
+    }
+    
+}
+
+@media screen and (max-width : 320px) {
+
+    .logo-foot {
+        height: 27px;
+        margin-bottom: 10px;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+
+    .social {
+        color: #fff;
+        font-family: muli;
+        text-align: center;
+        font-size: 10px;
+        margin-top: 20px;
+    }
+
+    .fb {
+        width: 10px;
+        height: 10px;
+        margin-left: 10px;
+        margin-right: 5px;
+    }
+
+    .twit {
+        width: 10px;
+        height: 10px;
+        margin-right: 5px;
+    }
+
+    .ig {
+        width: 10px;
+        height: 10px;
+        margin-right: 5px;
+    }
+
+    .linked {
+        width: 10px;
+        height: 10px;
+        margin-left: 5px;
+    }
+
+    .icon {
+        margin-top: -15px;
+    }
+
+    .copy {
+        color: #fff;
+        font-family: muli;
+        font-size: 8px;
+        text-align: center;
+        margin-top: 12px;
+        padding-top: 20px;
+    }
+    
+}
